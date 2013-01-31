@@ -17,8 +17,6 @@ public class Baddie
 	int bulletDelay = 30; 
 	int bulletDelayer = 0; 
 	int health; 
-
-	// test 
 	
 	Ball[] bullets = new Ball[100]; 
 
