@@ -18,6 +18,8 @@ public class Baddie
 	int bulletDelayer = 0; 
 	int health; 
 
+	// test 
+	
 	Ball[] bullets = new Ball[100]; 
 
 	public Baddie(double x, double y, int w, int h, String c, GameArena Arena) {
